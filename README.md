@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Taha
 
-### Backend Developer • Python • FastAPI • Linux
+### Backend Developer • Python • FastAPI • Linux/Windows
 
 > *"The quieter you become... The more you are able to hear."*
 
@@ -119,15 +119,13 @@ cybersecurity and system design.
 
 ---
 
-<div align="center">
+<div align="left">
 
-```cpp
-while (alive)
-{
-    learn();
-    build();
-    improve();
-}
+```python
+while alive:
+    learn()
+    build()
+    improve()
 ```
 
 Thanks for visiting ⭐
