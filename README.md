@@ -99,18 +99,6 @@ cybersecurity and system design.
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/TAH000k/TAH000k/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
-> **Note:** This requires a GitHub Action.
-
----
-
 ## 🎯 Goals
 
 - ✅ Build production-ready APIs
@@ -128,14 +116,6 @@ cybersecurity and system design.
 |---------|-------------|
 | 📚 Library Management API | FastAPI + PostgreSQL |
 | 🚀 More Coming Soon... | Stay tuned |
-
----
-
-## 💭 Philosophy
-
-> **The quieter you become...**
->
-> **The more you are able to hear.**
 
 ---
 
