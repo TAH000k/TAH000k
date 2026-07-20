@@ -119,7 +119,7 @@ cybersecurity and system design.
 
 ---
 
-<div align="left">
+<div align="center">
 
 ```python
 while alive:
