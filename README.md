@@ -1,16 +1,20 @@
-## Hi there 👋
+$ whoami
+Taha
 
-<!--
-**TAH000k/TAH000k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+$ skills
+Python
+FastAPI
+PostgreSQL
+Linux
+Git
+Arduino
 
-Here are some ideas to get you started:
+$ current_project
+Library Management API
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ current_goal
+Become a Backend & Cybersecurity Engineer
+
+$ philosophy
+"The quieter you become...
+The more you are able to hear."
