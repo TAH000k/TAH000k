@@ -119,8 +119,6 @@ cybersecurity and system design.
 
 ---
 
-<div align="center">
-
 ```python
 while alive:
     learn()
@@ -128,6 +126,10 @@ while alive:
     improve()
 ```
 
+---
+
+<div align="center">
+    
 Thanks for visiting ⭐
 
 </div>
