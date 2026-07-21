@@ -33,19 +33,6 @@ cybersecurity and system design.
 
 ---
 
-## 🚀 Current Project
-
-📚 **Library Management API**
-
-```
-✔ FastAPI
-✔ PostgreSQL
-✔ REST API
-✔ Git
-```
-
----
-
 ## 🛠 Tech Stack
 
 <p align="center">
@@ -67,18 +54,6 @@ cybersecurity and system design.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TAH000k&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAH000k&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -96,26 +71,6 @@ cybersecurity and system design.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TAH000k&theme=github-compact"/>
 
 </p>
-
----
-
-## 🎯 Goals
-
-- ✅ Build production-ready APIs
-- ⏳ Learn Docker
-- ⏳ Master PostgreSQL
-- ⏳ Learn Django
-- ⏳ Improve Cybersecurity skills
-- ⏳ Contribute to Open Source
-
----
-
-## 📂 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 📚 Library Management API | FastAPI + PostgreSQL |
-| 🚀 More Coming Soon... | Stay tuned |
 
 ---
 
