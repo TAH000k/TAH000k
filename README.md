@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Taha
+# Hi, I'm Taha
 
 ### Backend Developer • Python • FastAPI • Linux/Windows
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```bash
 $ whoami
@@ -33,7 +33,7 @@ cybersecurity and system design.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="center">
 
@@ -43,7 +43,7 @@ cybersecurity and system design.
 
 ---
 
-## 📖 Currently Learning
+## Currently Learning
 
 - Backend Architecture
 - PostgreSQL
@@ -54,7 +54,7 @@ cybersecurity and system design.
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <p align="center">
 
@@ -64,7 +64,7 @@ cybersecurity and system design.
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <p align="center">
 
@@ -85,6 +85,6 @@ while alive:
 
 <div align="center">
     
-Thanks for visiting ⭐
+Thanks for visiting!
 
 </div>
