@@ -7,7 +7,7 @@
 > *"The quieter you become... The more you are able to hear."*
 
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=00C853&center=true&vCenter=true&width=700&lines=Backend+Developer;Python+Enthusiast;Linux+User;Cybersecurity+Student;Always+Building+Something..." />
+<img src="https://readme-typing-svg.demolab.com/demo/?size=30&color=00F710&center=true&vCenter=true&lines=Python;Arduino;Backend;Linux;Cybersecurity" />
 </p>
 
 </div>
