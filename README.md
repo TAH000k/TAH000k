@@ -2,12 +2,12 @@
 
 # Hi, I'm Taha
 
-### Backend Developer • Python • FastAPI • Linux/Windows
+### Backend Developer • Python • Web • Arduino • Linux/Windows
 
 > *"The quieter you become... The more you are able to hear."*
 
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=00C853&center=true&vCenter=true&width=700&lines=Backend+Developer;Python+Enthusiast;FastAPI+Learner;Linux+User;Cybersecurity+Student;Always+Building+Something..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=00C853&center=true&vCenter=true&width=700&lines=Backend+Developer;Python+Enthusiast;Linux+User;Cybersecurity+Student;Always+Building+Something..." />
 </p>
 
 </div>
@@ -19,16 +19,12 @@
 ```bash
 $ whoami
 
-Name        :: Taha
-Role        :: Student & Backend Developer
+Full name   :: Taha Noursalehi
+Role        :: Student, Backend Developer & Gamer
 Language    :: Python
-Framework   :: FastAPI
-OS          :: Linux / Windows
+OS          :: Linux / Windows 11
 Editor      :: VS Code
 
-Current Mission:
-Building reliable backend applications while learning
-cybersecurity and system design.
 ```
 
 ---
@@ -47,7 +43,7 @@ cybersecurity and system design.
 
 - Backend Architecture
 - PostgreSQL
-- Docker
+- Kali linux
 - Networking
 - Cybersecurity
 - System Design
