@@ -7,7 +7,7 @@
 > *"The quieter you become... The more you are able to hear."*
 
 <p>
-<img src="https://readme-typing-svg.demolab.com/demo/?size=30&color=00F710&center=true&vCenter=true&lines=Python;Arduino;Backend;Linux;Cybersecurity" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F710&center=true&vCenter=true&width=435&lines=Python;Arduino;Backend;Linux;Cybersecurity)](https://git.io/typing-svg)
 </p>
 
 </div>
