@@ -50,7 +50,7 @@ Editor      :: VS Code
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=TAH000k&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=TAH000k&theme=github-dark-blue&hide_border=true&v=1"/>
 
 </p>
 
